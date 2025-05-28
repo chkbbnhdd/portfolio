@@ -3,12 +3,12 @@ home: true
 title: CHKB Portfolio
 heroImage: https://vuejs.press/images/hero.png
 actions:
-  - text: Get Started
-    link: /get-started.html
+  - text: Show Portfolio
+    link: /portfolio.html
     type: primary
 
-  - text: Introduction
-    link: https://vuejs.press/guide/introduction.html
+  - text: Contact Me
+    link: /contact.html
     type: secondary
 
 features:

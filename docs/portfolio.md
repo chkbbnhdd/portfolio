@@ -1,17 +1,27 @@
-# 🌐 Website Design & 🎬 Promo Showcase
+# Website Design & Promo Showcase
 
-Welcome to our digital portfolio! Here you'll find a curated collection of our latest **website design projects**, **promotional videos**, and **visual branding assets**. We specialize in creating visually striking and functionally seamless digital experiences.
+Velkommen til vores digitale portefølje! Her finder du et nøje udvalgt udvalg af vores nyeste projekter inden for webdesign, promoveringsvideoer og visuelle brandingmaterialer. Vi specialiserer os i at skabe visuelt imponerende og funktionelt gennemførte digitale oplevelser.
 
 ---
 
-## 📁 Website Design Projects
+## ABC Bilvask
 
-### 1. **Modern Agency Website**
-**Tech Stack:** React, Tailwind CSS, GSAP  
-**Live Demo:** [Visit Site](https://example.com)  
-![Modern Agency](https://via.placeholder.com/1200x600.png?text=Modern+Agency+Website)
+### **Udvide eksistrende hjemmeside**
+**Opgavebeskrivelse:** Assistance med udvidelse af hjemmesiden samt udvikling af et forespørgselssystem til håndtering af klargøringsanmodninger på biler.
 
-> A sleek, responsive design for a creative agency. Features custom animations, smooth scroll effects, and a modular layout.
+**Hjemmeside:** [Klik her](https://abcbilvask.dk/)  
+
+### **Udvikling af forespørgselssystem**
+**Opgavebeskrivelse:** Assistance med udvidelse af hjemmesiden samt udvikling af et forespørgselssystem til håndtering af klargøringsanmodninger på biler.
+
+**Forspørgelses system:** [Klik her](https://form.typeform.com/to/vOoSjeub)  
+
+### **Filme og redigere promo videoer**
+**Opgavebeskrivelse:** Assistance med udvidelse af hjemmesiden samt udvikling af et forespørgselssystem til håndtering af klargøringsanmodninger på biler.
+
+**Forspørgelses system:** [Klik her](https://form.typeform.com/to/vOoSjeub)  
+
+
 
 ---
 

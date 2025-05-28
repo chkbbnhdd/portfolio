@@ -1,9 +1,9 @@
 export const redirects = JSON.parse("{}")
 
 export const routes = Object.fromEntries([
-  ["/", { loader: () => import(/* webpackChunkName: "index.html" */"/Users/chkb/labs/portfolio/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":"CHKB Portfolio"} }],
-  ["/get-started.html", { loader: () => import(/* webpackChunkName: "get-started.html" */"/Users/chkb/labs/portfolio/docs/.vuepress/.temp/pages/get-started.html.js"), meta: {"title":"🌐 Website Design & 🎬 Promo Showcase"} }],
-  ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"/Users/chkb/labs/portfolio/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
+  ["/get-started.html", { loader: () => import(/* webpackChunkName: "get-started.html" */"C:/Users/cgrub/portfolio/docs/.vuepress/.temp/pages/get-started.html.js"), meta: {"title":"🌐 Website Design & 🎬 Promo Showcase"} }],
+  ["/", { loader: () => import(/* webpackChunkName: "index.html" */"C:/Users/cgrub/portfolio/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":"CHKB Portfolio"} }],
+  ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"C:/Users/cgrub/portfolio/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
 ]);
 
 if (import.meta.webpackHot) {
